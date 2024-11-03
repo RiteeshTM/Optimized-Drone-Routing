@@ -1,9 +1,9 @@
-# Optimized-Drone-Routing
+## Optimized-Drone-Routing
 This is my project on Optimized Drone Routing using Advanced Data Structures (Quad Trees , Segment Trees , Min heaps ) and Algorithms (astar) for finding the best path for the drone
 
-# Drone Route Optimization
+## Drone Route Optimization
 
-This project implements a drone route optimization algorithm using A* pathfinding with obstacle handling. The algorithm uses a QuadTree for spatial indexing of obstacles and a SegmentTree for obstacle tracking across ranges.
+This project implements a drone route optimization algorithm using A* pathfinding with obstacle handling. The algorithm uses a QuadTree for spatial indexing of obstacles (usually static obstacles) and a SegmentTree for obstacles (usually dynamic obstacles) tracking across ranges.
 
 ## Classes
 
